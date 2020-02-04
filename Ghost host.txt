@@ -1,0 +1,72 @@
+127.0.0.1 localhost 
+::1              voice.com
+
+sd/pubg/ban/fix/10year/
+0.0.0.0 .adjust.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 .app-measurement.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 .qq.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 .fbsbx.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 .www.phoenixstudio.org
+sd/pubg/ban/fix/10year/
+0.0.0.0 .qlogo.cn
+sd/pubg/ban/fix/10year/
+0.0.0.0 .umeng.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 .doubleclick.net
+sd/pubg/ban/fix/10year/
+0.0.0.0 .gameguardian.net
+sd/pubg/ban/fix/10year/
+0.0.0.0 .phenixos.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 .facebook.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 .igamecj.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 .helpshift.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 .gcloudcs.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 .qcloud.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 .proximabeta.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 .pubgmobile.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 .battlegroundsmobile.kr
+sd/pubg/ban/fix/10year/
+0.0.0.0 .googleusercontent.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 .twimg.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 .googleusercontent.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 .akamaized.net
+sd/pubg/ban/fix/10year/
+0.0.0.0 .facebook.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 .com
+sd/pubg/ban/fix/10year/
+0.0.0.0 .cn
+sd/pubg/ban/fix/10year/
+0.0.0.0 .net
+sd/pubg/ban/fix/10year/
+0.0.0.0 .kr
+sd/pubg/ban/fix/10year/
+0.0.0.0 .org
+sd/pubg/ban/fix/10year/
+0.0.0.0 heart.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 family.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 phone.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 in.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 local.com
+sd/pubg/ban/fix/10year/
+0.0.0.0 iPhone.com
+sd/pubg/ban/fix/10year/
