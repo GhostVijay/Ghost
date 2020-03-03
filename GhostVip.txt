@@ -1,0 +1,119 @@
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+
+localhost
+#              ::1             ip6-localhost
+49.51.171.105     bbx.com
+49.51.172.157      cdd.com
+182.254.116.117 dtaxw
+172.104.163.233 xhaja
+49.51.169.69        xsv.vom
+203.205.232.188   catq
+49.51.172.193     sycys
+49.51.168.200       cdua
+49.51.134.165       csw
+120.198.203.182 chsa
+49.51.229.98      b cs
+49.51.152.243     xhs
+49.51.150.231    bsu
+49.51.155.103 bbf
+119.28.147.156 eufw
+119.28.147.156 xyas
+49.51.66.225 fhwjs
+49.51.168.200       cdua
+49.51.134.165       csw
+120.198.203.182 chsa
+49.51.229.98      b cs
+49.51.152.243     xhs
+49.51.150.231    bsu
+49.51.155.103 bbf
+119.28.147.156 eufw
+119.28.147.156 xyas
+49.51.66.225 fhwjs
+49.51.65.232 syqc
+192.168.43.1 fhajq syqc
+192.168.43.1 fhajq
+
+
+#              127.0.0.1       localhost
+#              ::1             ip6-localhost
+
+
+0.0.0.0 .cn
+ #    " #   "m #      #    #   ##   mm#mm
+0.0.0.0 .qq.com
+loop  m    loop  mm   m    m loopm
+0.0.0.0 .gclouds.com
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ #loop" #m#    #mmm#"  #  #   #  #    #
+ 0.0.0.0 scgt.reverse.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .weiyun.com
+loop  m    loop  mm   m    m loopm                                                                                                                                                          Credit  Groot
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ #loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .766xqwx.com
+loop  m    loop  mm   m    m loopm
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ #loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .actencent.com
+0.0.0.0 .bqqpx.com
+loop  m    loop  mm   m    m loopm
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ #loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .cftres.com
+0.0.0.0 .igcdn.cn
+loop  m    loop  mm   m    m loopm
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ #loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .imqq.cn
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+ #   "m #  #m  #       #mm#   "mm"    #
+ #    " #   "m #      #    #   ##   mm#mm
+loop  m    loop  mm   m    m loopm
+0.0.0.0 .fbsbx.com
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ 0.0.0.0 .akamaized.net
+ #loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .proximabeta.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .cnzz.com
+ #   "m #  #m  #       #mm#   "mm"    #
+ 0.0.0.0 .userapi.com
+ #    " #   "m #      #    #   ##   mm#mm
+0.0.0.0 .pubgmobile.com
+0.0.0.0 .gclouds.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 graph.facebook.com
+ #   "m #  #m  #       #mm#   "mm"    #
+ #    " #   "m #      #    #   ##   mm#mm
+0.0.0.0 .tencent.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .proximabeta.com
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .cn
+ #    " #   "m #      #    #   ##   mm#m
+0.0.0.0 .net
+0.0.0.0 receiver.sg.tdm.qq.com
+0.0.0.0 cdn.wetest.qq.com
+0.0.0.0 vmp.qq.com
+0.0.0.0 csoversea.mbgame.gamesafe.qq.com
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 api.phenixos.com
+0.0.0.0 www.pubgmobile.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 platform-lookaside.fbsbx.com
+0.0.0.0 scgt.reverse.com
+0.0.0.0 rpgohsnmh.com
+0.0.0.0 pay.igamecj.com
+0.0.0.0 hkspeed.igamecj.com
+0.0.0.0 app.adjust.com
+0.0.0.0 pay.igamecj.com
+0.0.0.0 hkspeed.igamecj.com
+
