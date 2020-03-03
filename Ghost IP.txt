@@ -1,116 +1,119 @@
-t127.0.0.1       localhost
-::1 localhost
-203.205.158.62 localhost
-121.51.142.185 localhost
-127.0.0.7 localhost
-4.4.6.6 localhost
-::1 localhost
 
-0.0.0.0 .adjust.com
-0.0.0.0 .app-measurement.com
-0.0.0.0 .qq.com
-0.0.0.0 .fbsbx.com
-0.0.0.0 .phoenixstudio.org
-0.0.0.0 .qlogo.cn
-0.0.0.0 .umeng.com
-0.0.0.0 .doubleclick.net
-0.0.0.0 .gameguardian.net
-0.0.0.0 .phenixos.com
-0.0.0.0 .facebook.com
-0.0.0.0 .igamecj.com
-0.0.0.0 .helpshift.com
-0.0.0.0 .gcloudcs.com
-0.0.0.0 .qcloud.com
-0.0.0.0 .proximabeta.com
-0.0.0.0 .pubgmobile.com
-0.0.0.0 .battlegroundsmobile.kr
-0.0.0.0 .googleusercontent.com
-0.0.0.0 .twimg.com
-0.0.0.0 .googleusercontent.com
-0.0.0.0 .akamaized.net
-0.0.0.0 .xero.com
-0.0.0.0 .doba.com
-0.0.0.0 .niar.com
-0.0.0.0 .iler.com
-0.0.0.0 .aets.com
-0.0.0.0 .squa.com
-0.0.0.0 .facebook.com
-0.0.0.0 .fbcdn.net
-0.0.0.0 .tencent.com
-0.0.0.0 .yunnanhaochen.work
-0.0.0.0 .xinranyuan.cn
-0.0.0.0 .grab.com
-0.0.0.0 .kous.com
-0.0.0.0 .vean.com
-0.0.0.0 .crue.com
-0.0.0.0 .daru.com
-0.0.0.0 .than.com
-0.0.0.0 .liujiaao.xyz
-0.0.0.0 .tencentmusic-eng.com
-0.0.0.0 .mckuai.xyz
-0.0.0.0 .tencent-eng.com
-0.0.0.0 .myitl.cn
-0.0.0.0 .chen.zone
-0.0.0.0 .qpic.cn
-0.0.0.0 .gtimg.com
-0.0.0.0 .url.cn
-0.0.0.0 .soso.com
-0.0.0.0 .slei.com
-0.0.0.0 .naza.com
-0.0.0.0 .unan.com
-0.0.0.0 .irep.com
-0.0.0.0 .piaf.com
-0.0.0.0 .olad.com
-0.0.0.0 .766xqwx.com
-0.0.0.0 .gtimg.cn
-0.0.0.0 .npcstudio.cn
-0.0.0.0 .myapp.com
-0.0.0.0 .tc.qq
-0.0.0.0 .gamettl.cn
-0.0.0.0 .1030vip.com
-0.0.0.0 .ezhonglou2000.fun
-0.0.0.0 .1086sms.cn
-0.0.0.0 .dcloudstc.com
-0.0.0.0 .3366.com
-0.0.0.0 .egeduan360.fun
-0.0.0.0 .ejinbi2000.fun
-0.0.0.0 .eganqing2000.fun
-0.0.0.0 .ddkkfq.cn
-0.0.0.0 .eanli.fun
-0.0.0.0 .romzj.com
-0.0.0.0 .orgh.com
-0.0.0.0 .hibi.com
-0.0.0.0 .impy.com
-0.0.0.0 .aroy.com
-0.0.0.0 .julf.com
-0.0.0.0 .moat.com
-0.0.0.0 .eart.com
-0.0.0.0 .oine.com
-0.0.0.0 .inch.com
-0.0.0.0 .snik.com
-0.0.0.0 .vedy.com
-0.0.0.0 .kary.com
-0.0.0.0 .biam.com
-0.0.0.0 .mims.com
-0.0.0.0 .wanggou.com
-0.0.0.0 .igue.com
-0.0.0.0 .ases.com
-0.0.0.0 .miro.com
-0.0.0.0 .gyme.com
-0.0.0.0 .zoli.com
-0.0.0.0 .qidian.com
-0.0.0.0 .com
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+
+localhost
+#              ::1             ip6-localhost
+49.51.171.105     bbx.com
+49.51.172.157      cdd.com
+182.254.116.117 dtaxw
+172.104.163.233 xhaja
+49.51.169.69        xsv.vom
+203.205.232.188   catq
+49.51.172.193     sycys
+49.51.168.200       cdua
+49.51.134.165       csw
+120.198.203.182 chsa
+49.51.229.98      b cs
+49.51.152.243     xhs
+49.51.150.231    bsu
+49.51.155.103 bbf
+119.28.147.156 eufw
+119.28.147.156 xyas
+49.51.66.225 fhwjs
+49.51.168.200       cdua
+49.51.134.165       csw
+120.198.203.182 chsa
+49.51.229.98      b cs
+49.51.152.243     xhs
+49.51.150.231    bsu
+49.51.155.103 bbf
+119.28.147.156 eufw
+119.28.147.156 xyas
+49.51.66.225 fhwjs
+49.51.65.232 syqc
+192.168.43.1 fhajq syqc
+192.168.43.1 fhajq
+
+
+#              127.0.0.1       localhost
+#              ::1             ip6-localhost
+
+
 0.0.0.0 .cn
+ #    " #   "m #      #    #   ##   mm#mm
+0.0.0.0 .qq.com
+loop  m    loop  mm   m    m loopm
+0.0.0.0 .gclouds.com
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ #loop" #m#    #mmm#"  #  #   #  #    #
+ 0.0.0.0 scgt.reverse.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .weiyun.com
+loop  m    loop  mm   m    m loopm                                                                                                                                                          Credit  Groot
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ #loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .766xqwx.com
+loop  m    loop  mm   m    m loopm
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ #loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .actencent.com
+0.0.0.0 .bqqpx.com
+loop  m    loop  mm   m    m loopm
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ #loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .cftres.com
+0.0.0.0 .igcdn.cn
+loop  m    loop  mm   m    m loopm
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ #loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .imqq.cn
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+ #   "m #  #m  #       #mm#   "mm"    #
+ #    " #   "m #      #    #   ##   mm#mm
+loop  m    loop  mm   m    m loopm
+0.0.0.0 .fbsbx.com
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ 0.0.0.0 .akamaized.net
+ #loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .proximabeta.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .cnzz.com
+ #   "m #  #m  #       #mm#   "mm"    #
+ 0.0.0.0 .userapi.com
+ #    " #   "m #      #    #   ##   mm#mm
+0.0.0.0 .pubgmobile.com
+0.0.0.0 .gclouds.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 graph.facebook.com
+ #   "m #  #m  #       #mm#   "mm"    #
+ #    " #   "m #      #    #   ##   mm#mm
+0.0.0.0 .tencent.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .proximabeta.com
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .cn
+ #    " #   "m #      #    #   ##   mm#m
 0.0.0.0 .net
-0.0.0.0 .kr
-0.0.0.0 .umpt.com
-0.0.0.0 .durk.com
-0.0.0.0 .gous.com
-0.0.0.0 .org
-0.0.0.0 .work
-0.0.0.0 .fun
-0.0.0.0 .xyz
-0.0.0.0 .zone
-0.0.0.0 .qq
-0.0.0.0 203.205.158.62
-0.0.0.0 121.51.142.185
+0.0.0.0 receiver.sg.tdm.qq.com
+0.0.0.0 cdn.wetest.qq.com
+0.0.0.0 vmp.qq.com
+0.0.0.0 csoversea.mbgame.gamesafe.qq.com
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 api.phenixos.com
+0.0.0.0 www.pubgmobile.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 platform-lookaside.fbsbx.com
+0.0.0.0 scgt.reverse.com
+0.0.0.0 rpgohsnmh.com
+0.0.0.0 pay.igamecj.com
+0.0.0.0 hkspeed.igamecj.com
+0.0.0.0 app.adjust.com
+0.0.0.0 pay.igamecj.com
+0.0.0.0 hkspeed.igamecj.com
+
